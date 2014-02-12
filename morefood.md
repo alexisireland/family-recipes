@@ -3,5 +3,3 @@
 #ingredients
 
 ##directions
-
-##notes
